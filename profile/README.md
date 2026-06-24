@@ -14,10 +14,9 @@
 
   | Name | Description |
   |---|---|
-  | [ema-data-access](https://github.com/IMAP-Science-Operations-Center/ema-data-access) | Package and command line utility for users to download and query data from the EMA Science Data Center
-  |
-
-  <br>
+  | [ema-data-access](https://github.com/Emirates-Science-Missions/ema-data-access) | Package and command line utility for users to download and query data from the EMA Science Data Center |
+  | [ema-pdc](https://github.com/Emirates-Science-Missions/ema-pdc) | Software for building and configuring AWS architecture to support data processing |
+  | [EMMSDC](https://github.com/Emirates-Science-Missions/EMMSDC) | Software supporting the Emirates Mars Mission Science Data Center |
   
   ### Useful Links
 
