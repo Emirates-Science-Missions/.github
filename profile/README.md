@@ -1,7 +1,4 @@
 <div id="header" align="center">
-      <a href="https://www.mbrsc.ae/ema" target="_blank">
-          <img src="https://space.gov.ae/app_themes/lg21016/images/Emirates%20Mission%20to%20the%20Asteroid%20Belt-final1.png" width="50%"/>
-      </a>
       <h1>Welcome to the Data Center<br>GitHub Organization</h1>
       <p>
           This GitHub organization contains repositories used to support the Data Center (SDC).
