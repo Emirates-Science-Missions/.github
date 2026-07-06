@@ -1,7 +1,7 @@
 <div id="header" align="center">
-      <h1>Welcome to the Data Center<br>GitHub Organization</h1>
+      <h1>Welcome to the Emirates Mission Data Center<br>GitHub Organization</h1>
       <p>
-          This GitHub organization contains repositories used to support the Data Center (SDC).
+          This GitHub organization contains repositories used to support the Data Center.
       </p>
   </div>
 
